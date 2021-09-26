@@ -1,0 +1,272 @@
+Mario Sports Mix Modding App
+Mario Sports Mix Modding App Menü
+Texturen packen
+THP-Kompressor
+Jedes Spiel Brsar Patcher
+MSM-Dateien extrahieren und komprimieren
+Website
+MSM iso/wbfs extrahieren und komprimieren
+Texturen dumpen
+MSM iso patcher (bald)
+MSM arc extrahieren und komprimieren
+B-Stick-Farbe ändern
+png nach tex0 kodieren
+MSM Symbol Map Viewer
+cmn_test.bin Editor
+Wurzelknochenattribute ändern
+Aktuelles Arbeitsverzeichnis ist :
+Datei-Explorer öffnen
+Instant App ausführen (Enter)
+Sprache ändern
+Hilfe
+????
+Konfigurieren
+Sofortige Ausführung von Apps (keine UI)
+Dateien in cwd komprimieren
+Dateien in cwd extrahieren
+Texturen in cwd auf v3 korrigieren
+Dezimal zu hex-float
+Hex-float nach dezimal
+Hex-Ganzzahl lesen
+CaPiTaLiSe
+V a p o r w a v e
+YouTube Thumbnail Download
+C:/*.sys Dateigröße
+Png-Textur ersetzen no ext
+Kodierte Textur ersetzen
+Png-Textur ersetzen ext
+Beenden Sie
+eingeben.
+$$Änderung zwischen den Hashtags$$ # texture has # mipmaps while # has #
+$$Änderung zwischen den Hashtags$$ # texture is in # colour encoding format while # is in #
+gepatcht # brstm
+dumped # textures
+ersetzt # Texturen :D
+reparierte # Texturen
+auf # Dateien
+Löschen von #
+$$ a.png ist 512x512 während ...$$ # ist #x# während # textur ist #x#
+was passiert mit >#< ?? diese Datei existiert nicht mehr
+die Datei >#< passt nicht in die Texturdaten. Sie können die Texturgrößen nicht bearbeiten (aber wenn Sie darauf bestehen, können Sie die Farbkodierung und die Anzahl der Mipmaps in zzzdump.txt ändern, um die gleiche Datengröße mit anderen Abmessungen zu erreichen)
+Willkommen! Diese Anwendung wird verwendet, um hexadezimale Fließkommazahlen in dezimale Fließkommazahlen zu konvertieren
+hex-float : 
+Kopieren Sie den folgenden Wert in die Zwischenablage
+Willkommen! Diese Anwendung dient zur Konvertierung beliebiger Zahlen in hexadezimale Fließkommazahlen, deren Größe auf 4 Bytes festgelegt ist
+Dezimalwert : 
+Hallo zusammen! Dieses Skript wandelt beliebige hexadezimale Werte wie '7F FF ffa0' in einen dezimalen Integer-Wert um, Größe frei
+hexadezimale Werte : 
+Text = 
+Größe der Windows-Stammdateien
+kein gültiger YouTube-Video-Link
+(enthält kein v=)
+Erfolgreich heruntergeladen
+Download fehlgeschlagen !?§?!?§
+MSM Tools : Jedes Spiel brsar patch
+Jedes Spiel Brsar Patcher
+MSM Tools : arc extrahieren und komprimieren
+erledigt!
+Brawlcrate wird empfohlen
+um Brres zu bearbeiten (besonders in MSM)
+Extrahieren
+Der Prozess kann bis zu 1 Minute dauern
+Alle Dateien extrahieren
+erstellen
+Ausgabedatei Archivtyp
+Komprimierung
+Standard
+Mario Sports Mix Modding B-Stick-Farbe ändern
+erledigt!
+MSM B-Stick-Farbe ändern
+Windows-Farbwähler umgehen
+keine benutzerdefinierte Farbe
+Google Farbauswahl starten (online)
+Rot
+Orange
+Gelb
+Chartreuse
+Hellgrün
+Grün
+Grün Cyan
+Blau Cyan
+Blau
+Violett (Blau Fushia)
+Erröten
+Rot Fushia
+Farbe fixieren
+Vorschaubild
+Schließen und öffnen Sie
+Sie die App, um die
+Vorschau erneut zu sehen
+oder klicken Sie hier
+dies wird
+startet diese App
+erneut und schließt
+diese aktuelle Anwendung
+Windows Farbwähler
+Mario Sports Mix Modding Tool : Texturen zu png dumpen
+MSM Texturen Dump
+Hallo :D ! diese App zeigt maximal 192 Brres oder Arc in deinem aktuellen Arbeitsverzeichnis an.
+Es wird dump alle rohen tex0 der Datei dann wird sie zu png konvertieren
+tex0 behalten
+Mipmaps dumpen
+Dumping kann bis zu 2 Minuten dauern
+Auto-Gerated Datei von MSM Dump Texture App. Löschen Sie sie nicht, sonst können Sie die Pack Texture App nicht verwenden.
+Sie enthält alle tex0-Daten, die Größe, die Anzahl der Mipmaps, die Farbkodierung, die Namen der gedumpten png-Dateien und sha256-Hashes (um zu wissen, welche png-Datei bearbeitet wurde).
+Sie wissen vielleicht auch schon, dass Sie die Größe von png nicht ändern können, da sie sonst nicht in die Brres/Barc-Daten passen.
+MSM Tools : iso/wbfs extrahieren und komprimieren
+erledigt!
+oof! Ordner wird nicht als Spiel erkannt
+Update-Ordner entfernen
+Dateityp Ausgabeformat
+Dieser Vorgang kann bis zu 5 Minuten dauern
+Mario Sports Mix Modding mdl/bin/cmp/mot Dateien extrahieren und komprimieren
+Datei extrahieren
+alle Dateien extrahieren
+alle mdl extrahieren
+alle bin extrahieren
+alle cmp extrahieren
+alle mot extrahieren
+Datei komprimieren
+Manuell komprimieren
+Komprimieren
+alle Dateien komprimieren
+Mario Sports Mix Modding Symbol Map Viewer
+Mario Sports Mix Main.dol Symbolkarte
+Symbolkarte Hilfe
+Alle Symbolkarten speichern
+PAL-Symbolkarte
+NTSC-U-Symbolkarte
+NTSC-J-Symbolkarte
+Alle Symbolkarten speichern (ohne Filter)
+Mario Sports Mix Modding App : Texturen packen
+MSM Pack-Texturen
+Diese Anwendung sucht auch nach "zzzdump.txt", die png-Hashes enthält,
+Es wird im aktuellen Verzeichnis und den Verzeichnissen in diesem aktuellen Verzeichnis suchen
+Verwenden Sie die App "Dump Textures", um diese Datei zu erhalten, dann wird diese App die bearbeiteten png-Dateien in die gewünschten Verzeichnisse packen
+behalten Sie den kodierten Ordner
+Mario Sports Mix Modding Tool : png nach tex0 kodieren
+png nach tex0 kodieren
+Hoi! Diese App zeigt maximal 192 png in deinem aktuellen Arbeitsverzeichnis an.
+Erledigt!
+Farbkodierung
+Anzahl der Mipmaps
+Name der Ausgabedatei (ohne Erweiterung)
+Mario Sports Mix Modding Tool : THP Compressor
+THP-Editor
+Heya :] Dieses Programm zeigt bis zu 192 THP-Dateien in deinem aktuellen Arbeitsverzeichnis an.
+fertig
+existiert nicht
+bereits vorhanden
+zu viele Frames
+ungültige Einträge
+Datei überschreiben
+Du möchtes THP-Dateien erstellen? Klicke hier ->
+avthp GitHub
+Maximale Puffergröße
+Maximale Audio-Samples
+Frames pro Sekunde (Float)
+Gesamtzahl der Frames
+Wahr
+Falsch
+Version : 
+Enthält Audio : 
+Video Breite x Höhe : #x%
+Hat OffsetsDataOffset :
+Anzahl der Audiokanäle : 
+Audiofrequenz : 
+Anzahl der Proben : 
+Dauer : # min % Sekunden
+Modus auswählen
+Nur das erste Bild behalten
+Erstes Bild und Vanilla-Videodauer beibehalten
+OffsetsDataOffset hinzufügen
+Versatz entfernenDataOffset
+Eingabewerte verwenden
+Info anzeigen
+Mario Sports Mix Modding Wurzelknochenattribute ändern
+Erledigt!
+oof! siehe Hilfe
+Standard-Skala
+Benutzerdefinierte Skala
+Benutzerdefinierte Rotation
+benutzerdefinierte Translation
+Negative Werte
+sind erlaubt
+Mario Sports Mix Modding-Website
+Erste Schritte
+Textur-Hack-Anleitung
+Red_Star.brsar-Index
+Französische ID-Liste
+Französisches Textur-Hack-Tutorial
+Englische ID-Liste
+Zeichen-Infos
+Dateisystem
+Tutorial für eigene Charaktere
+Gezeigte Mods
+Msbt-Text-Index
+Die Cutting Room Floor-Webseite
+Google Sheet mit allen benutzerdefinierten Charakteren, Stages Texture Hacks, und Pack 2 Charakterliste
+Unserem Discord beitreten
+Yoshs YouTube-Kanal
+eine Zahl war beabsichtigt oder es gibt weniger Texturen als deine Zahl
+zähle die Texturposition in BrawlCrate
+BrawlCrate bearbeitet nicht nur die Texturdaten wie diese App, sondern baut beim Speichern die ganze Datei neu auf
+das kann die Datei beschädigen (wie z.B. den Bind-Skin in Mario Sports Mix zerstören)
+die Zahl kann negativ sein, wenn man von unten anfängt zu zählen
+keine brres oder arc Datei gefunden
+drücke Enter zum Beenden
+dieses Skript wird die Texturen in dieser Datei ersetzen
+drücke enter um fortzufahren (komprimieren + kodierte Texturen nicht behalten) oder
+- gib 1 ein, wenn das nicht die Datei ist, die du willst
+- gib 2 ein, um fortzufahren und die kodierten Texturen zu behalten, wenn das Programm endet
+- Typ 3, wenn dies nicht die gewünschte Datei ist und Sie die kodierten Texturen behalten wollen
+-Typ 4 komprimiert die bearbeitete Datei nicht
+-Typ 5 nicht komprimieren + kodierte Texturen beibehalten
+-Typ 6 nicht komprimieren + kodierte Texturen behalten + das ist nicht die Datei, die du willst
+Ihre Wahl : 
+Dateiname mit Erweiterung
+Diese Datei ist weder eine Brres- noch eine Arc-Datei
+Erkennung aller Textur-Offsets in der Datei, bitte warten...
+png-Name ohne Erweiterung
+wurde im aktuellen Arbeitsverzeichnis nicht gefunden
+ein png-Bild ist beabsichtigt
+Diese Datei ist kein png
+Textur-Position
+Fehler: die Zahl kann nicht 0 sein (sie kann -1 oder -2 und mehr sein, wenn du von unten anfängst zu zählen)
+drücke 1 und dann enter, um alle png nach tex0 zu kodieren
+oder gib etwas anderes ein, um ein anderes png hinzuzufügen
+das Ersetzen der Textur überschreibt den nächsten Header, dies passiert, wenn du zweimal das gleiche png verwendest.
+diese Textur wird nicht ersetzt, drücke enter um alle anderen Texturen zu ersetzen...
+png-Name mit Erweiterung
+Haben Sie einen externen Ordner geöffnet?
+Beachte auch, dass alle Texturen für alle Brres in einer Arc- oder Brres-Datei gezählt werden.
+Drücken Sie die Eingabetaste, um einen neuen Versuch zu starten...
+drücke die Eingabetaste, um fortzufahren (komprimiere am Ende) oder
+- gib 2 ein, wenn das nicht die Datei ist, die du willst + nicht komprimieren
+- gib 3 ein, wenn du deine Datei nicht komprimieren willst, wenn das Programm endet
+Texturname mit Endung :
+eine Textur ist vorgesehen
+Du hast kein tex0 für diese Anwendung verwendet, die nur mit bereits kodierten Texturen funktioniert.
+Versuchen Sie es erneut
+Ersetzen der Textur wird den nächsten Header überschreiben
+Erfolg, drücken Sie 1 und dann Enter zum Beenden
+oder gib etwas anderes ein, um eine andere Textur zu ersetzen
+Mario Sports Mix Modding App Hilfe
+Mario Sports Mix Modding Hilfe Menü
+Klicken Sie auf die Bilder, um sie im Vollbildmodus zu sehen
+Texturen packen
+THP-Kompressor
+Every Game Brsar Patcher
+???
+Dateien extrahieren und komprimieren
+Texturen auslagern
+Skript-Namen (Abkürzungen)
+ISO Patcher (bald)
+Bogen extrahieren und komprimieren
+B-Stick-Farbe ändern
+png nach tex0 kodieren
+Wie man MSM startet
+Symbolkarten-Betrachter
+App sofort ausführen
+Wurzelbone-Attribute ändern
+Credits
