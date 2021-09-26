@@ -120,7 +120,7 @@ german = [
     "da die Hilfe-App speziell dafür entwickelt wurde",
     "klicken Sie auf Ja, um cmd admin perm zu aktivieren",
     "installieren auf",
-    "Beenden Sie die Installation"]
+    "Beende die Installation"]
 spanish = [
     'pip.exe no encontrado. este archivo se incluye con python> = 3.7 (o puede instalar manualmente los módulos "pyperclip", "win10toast" y "Pillow") ',
     "Common.zip no está en el mismo directorio que este script, \ncómo diablos quieres usar las herramientas sin ningún script? \npresiona enter para salir ...",
