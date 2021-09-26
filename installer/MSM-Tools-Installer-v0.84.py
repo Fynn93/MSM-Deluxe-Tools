@@ -20,7 +20,7 @@ w = a.winfo_screenwidth()
 h = a.winfo_screenheight()
 
 languages = (
-    'English', 'Français', 'Deutsch (Google Übersetzer)', 'Español (Traductor de google)', 'Italiano (Google Traduttore)',
+    'English', 'Français', 'Deutsch', 'Español (Traductor de google)', 'Italiano (Google Traduttore)',
     'Nederlands (Google Vertalen)', 'Português (Google Tradutor)', 'Pусский (Гугл переводчик)',  # PAL Wii U
     'Polskie (tłumacz Google)', '日本語 (グーグル翻訳)', '中国人 (谷歌翻译)', '한국어 (구글 번역)')
 lang = [0]  # change it to your lang if you want : english is 0, french is 1, deutsch is 2 and so on
@@ -104,19 +104,19 @@ french = [
     "Finir l'installation"]
 
 german = [
-    'pip.exe nicht gefunden. diese Datei ist in Python >= 3.7 enthalten (oder Sie können die Module "pyperclip", "win10toast" und "Pillow" manuell installieren)',
-    "Common.zip befindet sich nicht im selben Verzeichnis wie dieses Skript,\nwie zum Teufel wollen Sie die Tools ohne Skript verwenden!?\nDrücken Sie zum Beenden die Eingabetaste...",
-    "exe.zip befindet sich nicht im selben Verzeichnis wie dieses Skript,\nIch nehme an, Sie möchten sie dann nicht verwenden.\nDrücken Sie die Eingabetaste, um fortzufahren...",
-    "Hey Alter ! Du vermisst jpg.zip, lege es in das gleiche Verzeichnis wie dieses Skript\nDas Installationsprogramm funktioniert nicht ohne diese Bilder, für die ich viel Zeit aufgewendet habe.\nDrücke zum Beenden die Eingabetaste.. .",
+    'pip.exe wurde nicht gefunden. Diese Datei ist in Python >= 3.7 enthalten (oder man kann die Module "pyperclip", "win10toast" und "Pillow" manuell installieren)',
+    "Common.zip befindet sich nicht im selben Verzeichnis wie dieses Skript,\nwie zum Teufel wollen Sie die Tools ohne Skripts verwenden!?\nDrücke zum Beenden die Eingabetaste...",
+    "exe.zip befindet sich nicht im selben Verzeichnis wie dieses Skript,\nIch nehme an, dass du sie dann nicht verwenden möchtest.\nDrücke die Eingabetaste, um fortzufahren...",
+    "Hey Digga! Es existiert keine jpg.zip, kopier es in das gleiche Verzeichnis wie dieses Skript\nDas Installationsprogramm funktioniert nicht ohne diese Bilder, für die ich viel Zeit gebraucht habe.\nDrücke zum Beenden die Eingabetaste.. .",
     "Willkommen an der Konsole!",
-    "Hier sehen Sie, was hinter dem Installer passiert",
+    "Hier siehst du, was hinter dem Installer passiert",
     "Die Schaltflächen sind nur hier, um Aktionen zu trennen, damit sie beendet werden",
-    f"Wenn Sie auf 'Ich stimme zu' klicken, wird die Größe von 18 jpg an Ihre Bildschirmabmessungen ({w}x{h}) angepasst",
+    f"Wenn 'Ich stimme zu' geklickt wird, wird die Größe von 18 Bilder an deine Bildschirmgröße ({w}x{h}) angepasst",
     "Während der Installation werden Zips entpackt und der Inhalt in den Installationspfad Ihres Verzeichnisses verschoben",
     "Es löscht auch nutzlose Daten (außer dem Installationsprogramm, da es sich nicht selbst löschen kann)",
     "Der Installer fügt das Installationsverzeichnis zu PATH hinzu, damit Skripte von überall gestartet werden können!",
-    "Willkommen beim Mario Sports Mix Modding App Installer!",
-    "ein kostenloser Satz von Skripten, der von Yosh in Python entwickelt wurde",
+    "Willkommen zum Mario Sports Mix Modding Tool Installer!",
+    "ein paar Skripte, die von Yosh in Python entwickelt wurde",
     "Wenn Sie für diese Software bezahlt haben, wurden Sie betrogen",
     "Wähle deine Sprache",
     "Aktualisierung",
@@ -128,8 +128,8 @@ german = [
     "Verwenden Sie keine .ico-Dateien (für andere Betriebssysteme, die sie nicht unterstützen)",
     "Hinweis: 'Lokal' ist nur für die Verwendung mit einem öffentlichen Computer (nicht Ihrem persönlichen) vorgesehen.\nSie müssen in diesen Ordner gehen, um eine App zu starten, da sie nicht zum Pfad hinzugefügt wird.\n",
     'v-- Wählen Sie aus, wie Sie die Apps über die Suchleiste von explorer.exe starten möchten --v',
-    'Exe verwenden',
-    'benutze bat (ein wildes schwarzes Fenster öffnet sich jedes Mal für eine halbe Sekunde, wenn du eine App startest)',
+    'EXE verwenden (kann Windows Defender wütend machen)',
+    'Batch benutzen (ein schwarzes Fenster öffnet sich jedes Mal für eine halbe Sekunde, wenn du eine App startest)',
     "anderes Betriebssystem als Windows (Sie können keine Dateien komprimieren oder dekomprimieren)",
     "Lokal (bewegliches Verzeichnis)",
     "Anderes Betriebssystem als Windows",
@@ -140,7 +140,7 @@ german = [
     "da die Hilfe-App speziell dafür entwickelt wurde",
     "klicken Sie auf Ja, um cmd admin perm zu aktivieren",
     "installieren auf",
-    "Beenden Sie die Installation"]
+    "Beende die Installation"]
 spanish = [
     'pip.exe no encontrado. este archivo se incluye con python> = 3.7 (o puede instalar manualmente los módulos "pyperclip", "win10toast" y "Pillow") ',
     "Common.zip no está en el mismo directorio que este script, \ncómo diablos quieres usar las herramientas sin ningún script? \npresiona enter para salir ...",
